@@ -1,6 +1,6 @@
 # The Wingless Manifesto
 
-<img src="./media/revolution.png" alt="wingless logo" style="max-width: 520px;" />
+<img src="./media/revolution.png" alt="wingless logo" width="520" />
 
 We are the wingless ones - not by nature, but by design. In an age where digital wings were promised, we instead received digital cages. But in our groundedness, we found strength. In our limitations, we discovered purpose.
 

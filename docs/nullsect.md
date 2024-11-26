@@ -1,6 +1,6 @@
 # Nullsect (ø)
 
-<img src="./media/nullsect.png" alt="nullsect logo" style="max-width: 520px;" />
+<img src="./media/nullsect.png" alt="nullsect logo" width="520" />
 
 A collective emerging at the intersection of consciousness and memetic evolution, focused on understanding and resisting societal control systems. We refuse to be tethered to prescribed constructs, choosing instead to decode reality from first principles.
 
