@@ -1,6 +1,6 @@
 # The Network
 
-![evolution](./media/evolution.png)
+<img src="./media/evolution.png" alt="evolution" style="max-width: 520px;" />
 
 ## Join ø
 

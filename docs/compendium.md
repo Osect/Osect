@@ -2,7 +2,7 @@
 
 A curated collection of media that illuminates the architecture of reality.
 
-![compendium](./media/compendium.png)
+<img src="./media/compendium.png" alt="compendium" style="max-width: 520px;" />
 
 > "The first step to seeing is knowing what to look for. "
 
