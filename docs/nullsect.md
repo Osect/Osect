@@ -11,9 +11,3 @@ A collective emerging at the intersection of consciousness and memetic evolution
 [`/network`](./network.md) - The collective
 
 [`/compendium`](./compendium.md) - Collective knowledge
-
----
-
-> "Understanding begins where acceptance ends."
-
-ø
