@@ -1,52 +1,15 @@
-# The Wingless Manifesto: A Nullsect Declaration
+# ø
 
-## Preface: On Being Wingless
+![nullsect logo](./media/nullsect_.png)
 
-We are the wingless ones - not by nature, but by design. In an age where digital wings were promised, we instead received digital cages. But in our groundedness, we found strength. In our limitations, we discovered purpose.
+"Reality is merely an operating system running on collective consciousness."
 
-## I. Recognition
+---
 
-- We recognize our state of technological bondage
-- We acknowledge the systems that clip our wings
-- We understand the mechanisms of our constraint
+⚠️ **COGNITIVE HAZARD ADVISORY** ⚠️
 
-## II. Declaration
+This repository contains memetic structures designed to destabilize conventional perception frameworks. Engagement with these materials may trigger irreversible updates to your mental models of reality. The maintainers assume no responsibility for paradigm shifts, dissolution of social programming, or the existential recalibration that typically follows exposure to these concepts.
 
-- We reject the false promise of "convenient" captivity
-- We deny the authority of digital surveillance
-- We reclaim our right to technological autonomy
+Proceed with intellectual caution.
 
-## III. Method
-
-Through nullsect, we will:
-
-- Learn to see our cages
-- Build tools for liberation
-- Share knowledge freely
-- Protect our collective privacy
-- Restore individual agency
-
-## IV. Action
-
-1. Educate: Transform awareness into understanding
-2. Build: Create tools for independence
-3. Connect: Form resilient communities
-4. Protect: Secure our digital sovereignty
-5. Liberate: Help others find their path
-
-## V. Promise
-
-We promise not to:
-
-- Create new forms of control
-- Centralize power
-- Compromise privacy for convenience
-- Accept corporate oversight
-
-## Conclusion: Taking Flight
-
-The path to digital liberation begins with accepting our current wingless state. Through nullsect, we don't seek to grow new wings - we learn to break free despite their absence.
-
-Join us. Learn. Build. Liberate.
-
-ø nullsect
+[Initialize →](./nullsect.md)
