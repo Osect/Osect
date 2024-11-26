@@ -4,6 +4,8 @@ A curated collection of media that illuminates the architecture of reality.
 
 ![compendium](./media/compendium.png)
 
+> "The first step to seeing is knowing what to look for. "
+
 ## Cinema Studies
 
 ### Reality Frameworks
@@ -40,7 +42,3 @@ A curated collection of media that illuminates the architecture of reality.
 ## Technical Archives [Coming Soon]
 
 ---
-
-> "The first step to seeing is knowing what to look for."
-
-ø

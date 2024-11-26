@@ -1,8 +1,8 @@
 # ø
 
-![nullsect logo](./media/nullsect_.png)
+> "Reality is merely an operating system running on collective consciousness."
 
-"Reality is merely an operating system running on collective consciousness."
+![nullsect logo](./docs/media/nullsect_.png)
 
 ---
 
@@ -12,4 +12,4 @@ This repository contains memetic structures designed to destabilize conventional
 
 Proceed with intellectual caution.
 
-[Initialize →](./nullsect.md)
+[Initialize →](./docs/nullsect.md)
