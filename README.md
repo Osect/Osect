@@ -2,7 +2,7 @@
 
 # ø nullsect
 
-> "We are the wingless ones, from the void we emerge"
+> "From the void we emerge, we are the wingless ones"
 
 <img src="./codex/media/nullsect_.png" alt="nullsect logo" width="520" />
 
