@@ -2,7 +2,7 @@
 
 # ø nullsect
 
-> "Where others see walls, we see patterns to break"
+> "We are the wingless ones, from the void we emerge"
 
 <img src="./codex/media/nullsect_.png" alt="nullsect logo" width="520" />
 
