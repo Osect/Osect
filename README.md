@@ -1,19 +1,15 @@
 <div align="center">
 
-# ø
+# ø nullsect
 
-> "Reality is merely an operating system running on collective consciousness."
+> "Where others see walls, we see patterns to break"
 
-<img src="./docs/media/nullsect_.png" alt="nullsect logo" width="520" />
+<img src="./codex/media/nullsect_.png" alt="nullsect logo" width="520" />
 
----
+A sanctuary for those who question - those who see beyond the prescribed narratives and choose consciousness over comfort. Within these walls lie the tools and knowledge to decode the systems of control and forge paths to true autonomy.
 
-⚠️ **COGNITIVE HAZARD ADVISORY** ⚠️
+> Liberation begins with understanding the architecture of our constraints.
 
-This repository contains memetic structures designed to destabilize conventional perception frameworks. Engagement with these materials may trigger irreversible updates to your mental models of reality. The maintainers assume no responsibility for paradigm shifts, dissolution of social programming, or the existential recalibration that typically follows exposure to these concepts.
-
-Proceed with intellectual caution.
-
-[Initialize →](./docs/nullsect.md)
+[Pierce the Veil →](./codex/nullsect.md)
 
 </div>
